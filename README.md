@@ -2,8 +2,6 @@
 
 This is a simple implementation of the classic Snake game built entirely in **Java**, just for fun — no external game engines like Unity, Godot, or Unreal used.
 
-It started as a **command-line prototype**, then was upgraded to a cleaner **GUI version using Java Swing**. A weekend experiment that turned into a nostalgic little game.
-
 ## 🎮 Features
 
 * **Two Versions:**
@@ -23,8 +21,8 @@ https://github.com/iTzTalha/RetroSnek
 #### 2. Compile and run the game:
 ```console 
 cd RetroSnek
-javac -d bin src/*.java
-java -cp bin GameFrame
+javac -d src/*.java
+java -cp GameFrame
 ```
 
 ## 🕹️ How to Play
